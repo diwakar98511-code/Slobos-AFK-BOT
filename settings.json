@@ -8,7 +8,7 @@
   "server": {
     "ip": "red_alu1.aternos.me:26630",
     "port": 26630,
-    "version": "1.21.1"
+    "version": "26.1.1"
   },
   "position": {
     "enabled": true,
